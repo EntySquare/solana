@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/dmitrymomot/solana/utils"
-	"github.com/portto/solana-go-sdk/common"
-	// "github.com/portto/solana-go-sdk/program/token"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana/utils"
+	// "github.com/EntySquare/solana-go-sdk/program/token"
 )
 
 const (

@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/program/system"
-	"github.com/portto/solana-go-sdk/types"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/program/system"
+	"github.com/EntySquare/solana-go-sdk/types"
 )
 
 // CreateNonceAccountParams is the params for creating a nonce account.

@@ -6,13 +6,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dmitrymomot/solana/types"
-	"github.com/dmitrymomot/solana/utils"
-	"github.com/portto/solana-go-sdk/client"
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/program/system"
-	"github.com/portto/solana-go-sdk/rpc"
-	sdktypes "github.com/portto/solana-go-sdk/types"
+	"github.com/EntySquare/solana-go-sdk/client"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/program/system"
+	"github.com/EntySquare/solana-go-sdk/rpc"
+	sdktypes "github.com/EntySquare/solana-go-sdk/types"
+	"github.com/EntySquare/solana/types"
+	"github.com/EntySquare/solana/utils"
 )
 
 // NewTransactionParams is the params for NewTransaction function.

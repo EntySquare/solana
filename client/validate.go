@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/dmitrymomot/solana/utils"
-	"github.com/portto/solana-go-sdk/client"
-	"github.com/portto/solana-go-sdk/types"
+	"github.com/EntySquare/solana-go-sdk/client"
+	"github.com/EntySquare/solana-go-sdk/types"
+	"github.com/EntySquare/solana/utils"
 )
 
 // SignTransaction signs a transaction and returns a base64 encoded transaction.

@@ -4,12 +4,12 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/dmitrymomot/solana/client"
-	"github.com/dmitrymomot/solana/instructions"
-	"github.com/dmitrymomot/solana/token_metadata"
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/program/token"
-	"github.com/portto/solana-go-sdk/types"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/program/token"
+	"github.com/EntySquare/solana-go-sdk/types"
+	"github.com/EntySquare/solana/client"
+	"github.com/EntySquare/solana/instructions"
+	"github.com/EntySquare/solana/token_metadata"
 )
 
 type (

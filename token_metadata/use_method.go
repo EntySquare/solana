@@ -1,6 +1,6 @@
 package token_metadata
 
-import "github.com/portto/solana-go-sdk/program/metaplex/token_metadata"
+import "github.com/EntySquare/solana-go-sdk/program/metaplex/token_metadata"
 
 // TokenUseMethod represents the use method of a token.
 type TokenUseMethod string

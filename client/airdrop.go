@@ -3,8 +3,8 @@ package client
 import (
 	"context"
 
-	"github.com/dmitrymomot/solana/common"
-	"github.com/dmitrymomot/solana/utils"
+	"github.com/EntySquare/solana/common"
+	"github.com/EntySquare/solana/utils"
 )
 
 // RequestAirdrop sends a request to the solana network to airdrop SOL to the given account.

@@ -1,8 +1,7 @@
 package e2e
 
 import (
-	"github.com/dmitrymomot/go-env"
-	"github.com/dmitrymomot/solana/common"
+	"github.com/EntySquare/solana/common"
 
 	_ "github.com/joho/godotenv/autoload" // Load .env file automatically
 )

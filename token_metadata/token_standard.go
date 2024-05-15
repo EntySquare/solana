@@ -1,6 +1,6 @@
 package token_metadata
 
-import "github.com/portto/solana-go-sdk/program/metaplex/token_metadata"
+import "github.com/EntySquare/solana-go-sdk/program/metaplex/token_metadata"
 
 // TokenStandard represents the standard of a token.
 type TokenStandard string

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/dmitrymomot/solana/utils"
+	"github.com/EntySquare/solana/utils"
 )
 
 // FungibleAssetMetadataBuilder is a builder to build fungible asset metadata

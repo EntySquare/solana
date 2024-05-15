@@ -5,14 +5,14 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dmitrymomot/solana/client"
-	"github.com/dmitrymomot/solana/common"
-	"github.com/dmitrymomot/solana/instructions"
-	"github.com/dmitrymomot/solana/tests/e2e"
-	"github.com/dmitrymomot/solana/token_metadata"
-	"github.com/dmitrymomot/solana/transaction"
-	"github.com/dmitrymomot/solana/types"
-	"github.com/portto/solana-go-sdk/program/token"
+	"github.com/EntySquare/solana-go-sdk/program/token"
+	"github.com/EntySquare/solana/client"
+	"github.com/EntySquare/solana/common"
+	"github.com/EntySquare/solana/instructions"
+	"github.com/EntySquare/solana/tests/e2e"
+	"github.com/EntySquare/solana/token_metadata"
+	"github.com/EntySquare/solana/transaction"
+	"github.com/EntySquare/solana/types"
 	"github.com/stretchr/testify/require"
 )
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/portto/solana-go-sdk/rpc"
+	"github.com/EntySquare/solana-go-sdk/rpc"
 )
 
 // StackErrors wraps multiple errors into a single error.

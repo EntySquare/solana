@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/dmitrymomot/solana/metadata"
-	"github.com/dmitrymomot/solana/token_metadata"
-	"github.com/dmitrymomot/solana/utils"
-	"github.com/portto/solana-go-sdk/common"
-	metaplex_token_metadata "github.com/portto/solana-go-sdk/program/metaplex/token_metadata"
-	"github.com/portto/solana-go-sdk/types"
+	"github.com/EntySquare/solana-go-sdk/common"
+	metaplex_token_metadata "github.com/EntySquare/solana-go-sdk/program/metaplex/token_metadata"
+	"github.com/EntySquare/solana-go-sdk/types"
+	"github.com/EntySquare/solana/metadata"
+	"github.com/EntySquare/solana/token_metadata"
+	"github.com/EntySquare/solana/utils"
 )
 
 // UpdateMetadataParams is the params for UpdateMetadata

@@ -1,6 +1,6 @@
 package token_metadata
 
-import "github.com/portto/solana-go-sdk/program/metaplex/token_metadata"
+import "github.com/EntySquare/solana-go-sdk/program/metaplex/token_metadata"
 
 // Token metadata edition key
 type Key string

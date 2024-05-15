@@ -3,10 +3,10 @@ package token_metadata
 import (
 	"context"
 
-	"github.com/dmitrymomot/solana/metadata"
-	"github.com/portto/solana-go-sdk/client"
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/program/metaplex/token_metadata"
+	"github.com/EntySquare/solana-go-sdk/client"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/program/metaplex/token_metadata"
+	"github.com/EntySquare/solana/metadata"
 )
 
 // PubNil is a nil public key

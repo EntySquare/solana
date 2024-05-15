@@ -1,6 +1,6 @@
 package types
 
-import "github.com/portto/solana-go-sdk/rpc"
+import "github.com/EntySquare/solana-go-sdk/rpc"
 
 // TransactionStatus represents the status of a transaction.
 type TransactionStatus uint8

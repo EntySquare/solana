@@ -1,8 +1,8 @@
 package utils
 
 import (
+	"github.com/EntySquare/solana-go-sdk/types"
 	"github.com/pkg/errors"
-	"github.com/portto/solana-go-sdk/types"
 )
 
 // EncodeTransaction returns a base64 encoded transaction.

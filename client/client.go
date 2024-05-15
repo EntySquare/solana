@@ -3,8 +3,8 @@ package client
 import (
 	"net/http"
 
-	"github.com/dmitrymomot/solana/types"
-	"github.com/portto/solana-go-sdk/client"
+	"github.com/EntySquare/solana-go-sdk/client"
+	"github.com/EntySquare/solana/types"
 )
 
 type (

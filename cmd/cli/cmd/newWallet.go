@@ -6,7 +6,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/dmitrymomot/solana/common"
+	"github.com/EntySquare/solana/common"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 )

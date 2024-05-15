@@ -4,11 +4,11 @@ import (
 	"fmt"
 
 	"filippo.io/edwards25519"
-	"github.com/dmitrymomot/solana/utils"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/pkg/hdwallet"
+	"github.com/EntySquare/solana-go-sdk/types"
+	"github.com/EntySquare/solana/utils"
 	"github.com/mr-tron/base58"
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/pkg/hdwallet"
-	"github.com/portto/solana-go-sdk/types"
 	"github.com/tyler-smith/go-bip39"
 )
 

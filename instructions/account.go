@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/program/associated_token_account"
-	"github.com/portto/solana-go-sdk/program/token"
-	"github.com/portto/solana-go-sdk/types"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/program/associated_token_account"
+	"github.com/EntySquare/solana-go-sdk/program/token"
+	"github.com/EntySquare/solana-go-sdk/types"
 )
 
 // CreateAssociatedTokenAccountParam defines the parameters for creating an associated token account.

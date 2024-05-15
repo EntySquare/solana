@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dmitrymomot/solana/client"
-	"github.com/dmitrymomot/solana/tests/e2e"
+	"github.com/EntySquare/solana/client"
+	"github.com/EntySquare/solana/tests/e2e"
 	"github.com/stretchr/testify/require"
 )
 

@@ -3,9 +3,9 @@ package client
 import (
 	"context"
 
-	"github.com/dmitrymomot/solana/common"
-	"github.com/dmitrymomot/solana/types"
-	"github.com/dmitrymomot/solana/utils"
+	"github.com/EntySquare/solana/common"
+	"github.com/EntySquare/solana/types"
+	"github.com/EntySquare/solana/utils"
 )
 
 // GetSOLBalance returns the SOL balance of the given base58 encoded account address.

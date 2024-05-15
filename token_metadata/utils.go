@@ -4,10 +4,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/dmitrymomot/solana/metadata"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/program/metaplex/token_metadata"
+	"github.com/EntySquare/solana/metadata"
 	"github.com/near/borsh-go"
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/program/metaplex/token_metadata"
 )
 
 // DeriveTokenMetadataPubkey returns the token metadata program public key.

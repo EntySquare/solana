@@ -6,9 +6,9 @@ package cmd
 import (
 	"strconv"
 
-	"github.com/dmitrymomot/solana/client"
-	"github.com/dmitrymomot/solana/common"
-	"github.com/dmitrymomot/solana/types"
+	"github.com/EntySquare/solana/client"
+	"github.com/EntySquare/solana/common"
+	"github.com/EntySquare/solana/types"
 	"github.com/fatih/color"
 	"github.com/spf13/cobra"
 )

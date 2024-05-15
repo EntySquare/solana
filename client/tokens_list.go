@@ -5,10 +5,10 @@ import (
 	"encoding/json"
 	"fmt"
 
-	commonx "github.com/dmitrymomot/solana/common"
-	"github.com/dmitrymomot/solana/types"
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/rpc"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/rpc"
+	commonx "github.com/EntySquare/solana/common"
+	"github.com/EntySquare/solana/types"
 )
 
 // GetFungibleTokensList gets the list of fungible tokens for the given wallet address.

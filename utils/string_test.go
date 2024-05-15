@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	"github.com/dmitrymomot/solana/utils"
+	"github.com/EntySquare/solana/utils"
 )
 
 func TestTrimStringBetween(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/dmitrymomot/solana/utils"
+	"github.com/EntySquare/solana/utils"
 )
 
 // NFTMetadataBuilder is a builder to build non-fungible asset metadata

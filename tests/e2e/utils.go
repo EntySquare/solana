@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/dmitrymomot/solana/client"
-	"github.com/dmitrymomot/solana/common"
-	"github.com/dmitrymomot/solana/types"
+	"github.com/EntySquare/solana/client"
+	"github.com/EntySquare/solana/common"
+	"github.com/EntySquare/solana/types"
 )
 
 // SignAndSendTransaction signs a transaction by the fee payer and the wallet1 and sends it.

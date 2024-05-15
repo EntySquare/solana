@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/portto/solana-go-sdk/common"
-	"github.com/portto/solana-go-sdk/program/token"
-	"github.com/portto/solana-go-sdk/types"
+	"github.com/EntySquare/solana-go-sdk/common"
+	"github.com/EntySquare/solana-go-sdk/program/token"
+	"github.com/EntySquare/solana-go-sdk/types"
 )
 
 // TransferTokenParam defines the parameters for transferring tokens.
