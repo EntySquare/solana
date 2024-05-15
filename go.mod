@@ -14,7 +14,7 @@ require (
 	github.com/tyler-smith/go-bip39 v1.1.0
 )
 
-require github.com/EntySquare/solana-go-sdk v0.0.0-20240515143930-e6ccc5f75684
+require github.com/EntySquare/solana-go-sdk v1.23.8
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
